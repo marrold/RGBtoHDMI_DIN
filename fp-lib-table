@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "RGBtoHDMI_DIN")(type "KiCad")(uri "${KIPRJMOD}/RGBtoHDMI_DIN.pretty")(options "")(descr ""))
+)
